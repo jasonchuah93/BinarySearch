@@ -40,3 +40,4 @@ void test_binarySearch_should_return_negative_1_if_target_not_inside_array(){
 	TEST_ASSERT_EQUAL(-1,index);
 }
 
+
